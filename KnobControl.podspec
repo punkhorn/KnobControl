@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
 
   spec.platform	 = :ios, "12.0"
 
-  spec.source       = { :git => "git@github.com:punkhorn/KnobControl.git" :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/punkhorn/KnobControl.git", :tag => "1.0.0" }
 
 
   spec.source_files  = "KnobControl"
